@@ -1,0 +1,7 @@
+{
+  "name": "todoistApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
