@@ -24,3 +24,15 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+.color-preview {
+    width: 20px;
+    height: 20px;
+    border-radius: 15px;
+}
+
+.color-preview-small {
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+}
